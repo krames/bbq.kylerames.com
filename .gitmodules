@@ -1,0 +1,3 @@
+[submodule "themes/bbq"]
+	path = themes/bbq
+	url = https://github.com/krames/bbq-theme.git
