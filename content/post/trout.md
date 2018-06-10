@@ -1,7 +1,7 @@
 +++
 author = "Kyle Rames"
 categories = ["Seafood Recipes"]
-date = 0001-01-01T00:00:00Z
+date = 2015-07-21T01:00:51Z
 description = ""
 draft = false
 image = "/images/2015/07/IMG_7609-1.jpg"
@@ -17,15 +17,15 @@ I asked for two portions and they told me that would be two 8oz fillets. I went 
 
 Just sprinkle salt and pepper on the front and back of the fish. Then top with lemon and onion slices. When it came time to prep the fish I was surprised to find it was the whole boned fish!
 
-![](/content/images/2015/07/IMG_7595.jpg)
+![](/images/2015/07/IMG_7595.jpg)
 
 These were small enough that they could both fit in the fish basket my mother and law gifted me at the beginning of the year. 
 
-![](/content/images/2015/07/IMG_7607.jpg)
+![](/images/2015/07/IMG_7607.jpg)
 
 I cooked these on my Weber Genesis for 6 minutes a side on direct medium heat.
 
-![](/content/images/2015/07/IMG_7609.jpg)
+![](/images/2015/07/IMG_7609.jpg)
 
 My dad was right. These turned out very tasty! Jen and Steve Raichlen both agree that next time I should add melted butter to finish them off next time. Who am I to disagree!
 

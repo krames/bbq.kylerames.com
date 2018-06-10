@@ -1,7 +1,7 @@
 +++
 author = "Kyle Rames"
 categories = ["Beef Recipes"]
-date = 0001-01-01T00:00:00Z
+date = 2015-01-18T20:52:32Z
 description = ""
 draft = false
 slug = "christmas-brisket"
@@ -20,19 +20,19 @@ When picking out a brisket I always shoot for something around 12 lb with a cons
 
 Most of the briskets on hand seemed to be too big or too small. I was eyeing one that was around 11 lb, but in the end I just had a better feeling about a smaller about this 10.55 one.
 
-{<1>}![10.55 Prime Brisket](/content/images/2015/01/brisket1.jpg)
+{<1>}![10.55 Prime Brisket](/images/2015/01/brisket1.jpg)
 
 ###### Brisket Prep
 
 I prepped the brisket the day before Christmas Eve.
 
-{<2>}![Prep](/content/images/2015/01/brisket2.jpg)
+{<2>}![Prep](/images/2015/01/brisket2.jpg)
 
 After rinsing the brisket I proceeded to trim a ton of fat off of it leaving an 1/4 - 1/8 inch fat cap. It was almost to the point where I worried it if was enough food! Afterwards, I brushed it with olive oil and then rubbed it down with some [hoochie mama rub](http://www.amazon.com/Suckle-Busters-Hoochie-Spicy-Ounce/dp/B00DUPVTLG/ref=sr_1_1?ie=UTF8&qid=1421532070&sr=8-1). With moisture always being a concern I injected it with some low sodium beef broth using my [Butterball injector](http://www.amazon.com/dp/B002SG6HRE/ref=sr_ph?ie=UTF8&qid=1421532211). (I have tried other brands and this one is my favorite).
 
 This is what it looked like after prep:
 
-{<3>}![Preped Brisket](/content/images/2015/01/brisket3.jpg)
+{<3>}![Preped Brisket](/images/2015/01/brisket3.jpg)
 
 
 ###### The Cook
@@ -51,7 +51,7 @@ After I pulled it I added an another layer of foil. I then wrapped it up in a co
 
 At about 30 minutes prior to serving I removed it from the aluminum foil  reserving the juices. I seared it on my genesis for 5 minutes a side. I poured some of the reserved juices on it and let it rest an additional 30 minutes out in the open.
 
-{<4>}![Brisket Final Pic](/content/images/2015/01/brisket-final.jpg)
+{<4>}![Brisket Final Pic](/images/2015/01/brisket-final.jpg)
 
 I think this might be my best brisket yet.
 

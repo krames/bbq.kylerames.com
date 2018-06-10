@@ -1,7 +1,7 @@
 +++
 author = "Kyle Rames"
 categories = ["Appetizer Recipes"]
-date = 0001-01-01T00:00:00Z
+date = 2015-01-18T20:55:36Z
 description = ""
 draft = false
 image = "/images/2015/01/brie-1.jpg"
@@ -17,7 +17,7 @@ All you have to do is soak a cedar plank in water for about an hour. You then pl
 
 The book has a recipe for a cherry chutney, but I opted to use [Robert Rothchild Tart Cherry Preserves with Pomegranate](http://www.robertrothschild.com/product/product-details.aspx?prodID=880&name=Tart+Cherry+Preserves+with+Pomegranate) which I found at [Central Market](http://www.centralmarket.com/Home).
 
-{<1>}![Brie](/content/images/2015/01/brie.jpg)
+{<1>}![Brie](/images/2015/01/brie.jpg)
 
 The recipe suggests topping with almonds which I decided to ommit.
 

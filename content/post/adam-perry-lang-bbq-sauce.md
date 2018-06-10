@@ -1,7 +1,7 @@
 +++
 author = "Kyle Rames"
 categories = ["Sauce Recipes"]
-date = 0001-01-01T00:00:00Z
+date = 2015-01-18T20:54:14Z
 description = ""
 draft = false
 slug = "adam-perry-lang-bbq-sauce"
@@ -14,7 +14,7 @@ I wanted to make my annual [Christmas Brisket](http://bbq.kylerames.com/christma
 
 I must say that it was really good, but it was really involved. (It requires  19 ingredients!)
 
-![APL BBQ sauce ingredients](/content/images/2015/01/bbq-sauce-1.jpg)
+![APL BBQ sauce ingredients](/images/2015/01/bbq-sauce-1.jpg)
 
 You can find the recipe in his cookbook or on his [website](http://www.adamperrylang.com/recipes/apl-bbq-sauce). I have reprinted here for your convenience:
 
@@ -36,7 +36,7 @@ I opted to make it the day before and I think it was all for the better as the f
 
 Here is the final product:
 
-![APL BBQ Sauce](/content/images/2015/01/bbq-sauce2.jpg)
+![APL BBQ Sauce](/images/2015/01/bbq-sauce2.jpg)
 
 APL says that the ingredients are just a starting point, but I honestly wouldn't change a thing. It's the perfect blend of sweet, tang, and heat.
 

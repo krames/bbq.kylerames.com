@@ -1,7 +1,7 @@
 +++
 author = "Kyle Rames"
 categories = ["Appetizer Recipes"]
-date = 0001-01-01T00:00:00Z
+date = 2015-03-14T18:34:40Z
 description = ""
 draft = false
 image = "/images/2015/03/dates-cover.jpg"
@@ -39,8 +39,8 @@ Here is how to make them:
 
 Here is a shot of them prepped and ready for the grill:
 
-{<1>}![](/content/images/2015/03/dates1.jpg)
+{<1>}![](/images/2015/03/dates1.jpg)
 
 And here is what is left of them after I was able to drag myself away from them long enough get my camera:
 
-{<2>}![](/content/images/2015/03/dates2.jpg)
+{<2>}![](/images/2015/03/dates2.jpg)

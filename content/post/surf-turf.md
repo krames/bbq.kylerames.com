@@ -1,7 +1,7 @@
 +++
 author = "Kyle Rames"
 categories = ["Beef Recipes", "Seafood Recipes"]
-date = 0001-01-01T00:00:00Z
+date = 2015-02-15T18:19:00Z
 description = ""
 draft = false
 image = "/images/2015/02/vday5-1.jpg"
@@ -17,7 +17,7 @@ After deciding what we wanted, my wife braved a Valentine's Day trip to Central 
 
 ### Filet Mignon
 
-![](/content/images/2015/02/vday1.jpg)
+![](/images/2015/02/vday1.jpg)
 
 I took the filet out of the fridge 30 minutes before I put it on the grill and covered with olive oil along with a liberal dose of [Weber Chicago Steak](http://www.amazon.com/Weber-Chicago-Steak-Seasoning-171/dp/B007NLKUF4/ref=sr_1_2?ie=UTF8&qid=1424020938&sr=8-2) seasoning. The steak was then cooked to **130°F** using a reverse sear.
 
@@ -29,7 +29,7 @@ You can read more up on this techinque on [Amazing Ribs](http://amazingribs.com/
 
 Lobster tails are surpisingly easy to grill. 
 
-![](/content/images/2015/02/vday2.jpg)
+![](/images/2015/02/vday2.jpg)
 
 I started by using a pair of kitchen shears to cut the top shell lengthwise. I then used my chef's knife to cut through the meat taking special care not to slice through the bottom shell. With the knife still inserted, I twisted it to crack the tail open. The meat was then slathered with Central Market compound butter (butter, garlic, salt, and pepper). And just for good measure, I hit them with some more melted compound butter just before they went on the gril.
 
@@ -77,11 +77,11 @@ I went in it with the following game plan:
 
 Here's the results:
 
-![](/content/images/2015/02/vday3.jpg)
+![](/images/2015/02/vday3.jpg)
 
-![](/content/images/2015/02/vday4.jpg)
+![](/images/2015/02/vday4.jpg)
 
-![](/content/images/2015/02/vday5.jpg)
+![](/images/2015/02/vday5.jpg)
 
 As good as prime filet mignon was, the lobster tails were the real star.
 

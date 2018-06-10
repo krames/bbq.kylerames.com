@@ -1,7 +1,7 @@
 +++
 author = "Kyle Rames"
 categories = ["Beef Recipes"]
-date = 0001-01-01T00:00:00Z
+date = 2015-07-11T20:02:26Z
 description = ""
 draft = false
 image = "/images/2015/07/IMG_7580-1.jpg"
@@ -15,15 +15,15 @@ For our fifth wedding anniversary, Jen and I headed to Seattle, WA. While walkin
 
 I was most excited about the [Exotic Mushroom Rub](http://www.amazon.com/Rub-Love-Exotic-Mushroom-Douglas/dp/B000VBVZRK) which contains actual porcini mushrooms. According to his website he uses it to finish off steaks at his restaurant. 
 
-![](/content/images/2015/07/IMG_7562.jpg)
+![](/images/2015/07/IMG_7562.jpg)
 
 About a week after our trip Jen headed to the central market and came back with some very nice looking dry aged prime ribeyes weigh in at 1.1 lb. I rubbed them down with a little olive oil and a healthy dose of rub.
 
-![](/content/images/2015/07/IMG_7560.jpg)
+![](/images/2015/07/IMG_7560.jpg)
 
 I did my usual reverse sear on them and started them off on my egg @ 250°F with two fist fulls of oak chips.
 
-![](/content/images/2015/07/IMG_7570.jpg)
+![](/images/2015/07/IMG_7570.jpg)
 
 Here is the timeline:
 
@@ -38,7 +38,7 @@ Here is the timeline:
 
 I then brought the egg up to searing temperatures and cooked these for 1 minute per side. We then topped these off with a pat of butter and a little more rub.
 
-![](/content/images/2015/07/IMG_7580.jpg)
-![](/content/images/2015/07/IMG_7582.jpg)
+![](/images/2015/07/IMG_7580.jpg)
+![](/images/2015/07/IMG_7582.jpg)
 
 These were probably the **BEST** steaks I have ever had in my life. I think I am going to have to set my Weber Chicago Steak Seasoning aside and use the Exotic Mushroom Rub from now on!!

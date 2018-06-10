@@ -1,7 +1,7 @@
 +++
 author = "Kyle Rames"
 categories = ["Pork Recipes"]
-date = 0001-01-01T00:00:00Z
+date = 2015-01-25T19:55:42Z
 description = ""
 draft = false
 image = "/images/2015/01/ribs-2.jpg"
@@ -17,11 +17,11 @@ The first time I used it was on some chicken breasts. It definitely lived up to 
 
 For the cook my wife managed to pick up a nice slab of baby back ribs from HEB. 
 
-![Packaged Ribs](/content/images/2015/01/ribs1-1.jpg)
+![Packaged Ribs](/images/2015/01/ribs1-1.jpg)
 
 The morning of my cook I rinsed them under cold water and blotted them dry with paper towels. I then gave them a nice coat of olive oil and rubbed them down. The ribs then went back into the refrigerator for a several hours looking like this:
 
-![Rubbed Ribs](/content/images/2015/01/ribs2-1.jpg)
+![Rubbed Ribs](/images/2015/01/ribs2-1.jpg)
 
 For baby back ribs I am a big fan of the **3-1-1** method. That's uncovered for three hours, wrapped in aluminum foil for one, and then one hour uncovered to firm up the crust (the last one is usually less than an hour). I think this method allows ample time to develop a smoke ring while still managing to be moist and tender, but not fall of the bone tender. If you want fall of the bone ribs you should opt to spend more time in  foil.
 
@@ -36,11 +36,11 @@ During the cook the egg temp got as high as 300°F (like I said, I had a hard ti
 
 Here is what they looked like at **5:40PM**. (You might recognize these ribs from the mainpage of my blog).
 
-![Ribs](/content/images/2015/01/ribs3.jpg)
+![Ribs](/images/2015/01/ribs3.jpg)
 
 I ended up pulling them at **6:10PM**. Here is the final product.
 
-![Finished Ribs](/content/images/2015/01/ribs4.jpg)
+![Finished Ribs](/images/2015/01/ribs4.jpg)
 
 I was a little curious as to why these ribs finished faster than expected so I took another look at the rub ingredients and noticed two possible culprits -- vinegar and yeast extract. After doing  some crack googling, I suspect that these ingredients might have tenderized the meat while it was resting in the fridge.
 

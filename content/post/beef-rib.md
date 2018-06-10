@@ -1,7 +1,7 @@
 +++
 author = "Kyle Rames"
 categories = ["Beef Recipes"]
-date = 0001-01-01T00:00:00Z
+date = 2016-08-14T14:42:41Z
 description = ""
 draft = false
 image = "/images/2016/08/IMG_0364.jpg"
@@ -15,13 +15,13 @@ My first introduction to a beef rib was at [Pecan Lodge](http://www.pecanlodge.c
 
 Since my first bite, I have wanted to try to make them at home. It took me a while to figure out where to buy one. I ended up going to Bolner's meat market and they helped me pick out this B-E-A-utiful 2.86-pound rub (that's one rib...not a rack)  
 
-![](/content/images/2016/07/IMG_0355.jpg)
-![](/content/images/2016/07/IMG_0356.jpg)
+![](/images/2016/07/IMG_0355.jpg)
+![](/images/2016/07/IMG_0356.jpg)
 
 Aaron Franklin has an excellent video covering how to cook one. You can find it [here](https://www.youtube.com/watch?v=nFVu_XwLrew). The rib I purchased had a little bit more fat that Aaron's rib did. I had the inclination to trim it off. My suspicions were confirmed after reading this [article](http://virtualweberbullet.com/shortribs2.html) from the VirtualWeberBullet.
 
 After a good trim I was left with this:
-![](/content/images/2016/07/IMG_0360.jpg)
+![](/images/2016/07/IMG_0360.jpg)
 
 I slathered the rib and then coated it Texas style with kosher salt and course ground pepper. (The more I smoke, the more I find myself preferring the Texas way.)
 
@@ -30,7 +30,7 @@ The rib went on at 2:02 pm at 250°F with a couple of chunks of oak. It seemed l
 
 In the end it looked like this:
 
-![](/content/images/2016/07/IMG_0364.jpg)
+![](/images/2016/07/IMG_0364.jpg)
 
 The rib came out tasty, but it wasn't anywhere close to my best. The rib seemed much tougher than when I pulled it, so much so, that we had to cut it with a steak knife. There was a lot of fat that did not render out, and it had a little bit too much smoke on it.
 

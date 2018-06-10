@@ -1,7 +1,7 @@
 +++
 author = "Kyle Rames"
 categories = ["Pork Recipes"]
-date = 0001-01-01T00:00:00Z
+date = 2015-07-21T01:42:11Z
 description = ""
 draft = false
 image = "/images/2015/07/IMG_7617.jpg"
@@ -17,7 +17,7 @@ I usually like to buy unseasoned ribs and rub them down with my [favorite rub](h
 
 I threw these on the on a 217°F egg at 12:12 along with some hickory chunks.
 
-![](/content/images/2015/07/IMG_7616.jpg)
+![](/images/2015/07/IMG_7616.jpg)
 
 I finally got around to using the [Weber Style Rib Rack](http://www.amazon.com/Weber-6453-Style-Discontinued-Manufacturer/dp/B001H1NH74/ref=sr_1_2?ie=UTF8&qid=1437441767&sr=8-2) my sister got for Christmas several years ago. It looks like its officially discontinued so I am sad to report I really like it! It's nice having a rack that allows you to slide the ribs in at an angle.
 
@@ -38,8 +38,8 @@ I wasn't planning on eating until 5:30-6, so I wrapped them up individually in A
 
 The ribs turned out really well. Although Jen says she prefers my baby backs. I guess that means I am doing some [cherry glazed](http://bbq.kylerames.com/2015/01/25/things-i-want-to-bbq-this-year/) ones next!
 
-![](/content/images/2015/07/IMG_7623.jpg)
-![](/content/images/2015/07/IMG_7625.jpg)
-![](/content/images/2015/07/IMG_7626.jpg)
+![](/images/2015/07/IMG_7623.jpg)
+![](/images/2015/07/IMG_7625.jpg)
+![](/images/2015/07/IMG_7626.jpg)
 
 

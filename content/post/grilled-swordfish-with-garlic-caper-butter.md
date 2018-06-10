@@ -1,7 +1,7 @@
 +++
 author = "Kyle Rames"
 categories = ["Seafood Recipes"]
-date = 0001-01-01T00:00:00Z
+date = 2015-05-02T21:24:59Z
 description = ""
 draft = false
 image = "/images/2015/05/IMG_6822-1.jpg"
@@ -31,7 +31,7 @@ Oak chips
 ###### Directions
 1. Rinse and blot fish dry. Apply salt, pepper, olive oil. Squeeze half a lemon on both sides of the fish. Allow to marinade in fridge for 15 minutes.
 
-![](/content/images/2015/05/IMG_6811.jpg)
+![](/images/2015/05/IMG_6811.jpg)
 
 2. Grill fish on high with a small handful of oak chips for 3-4 minutes per side.
 
@@ -39,15 +39,15 @@ Oak chips
 
 Here is what the fish looked like after it came off the grill:
 
-![](/content/images/2015/05/IMG_6816.jpg)
+![](/images/2015/05/IMG_6816.jpg)
 
 And here is the final product:
 
-![](/content/images/2015/05/IMG_6822.jpg)
+![](/images/2015/05/IMG_6822.jpg)
 
 We served these with bread and some asparagus:
 
-![](/content/images/2015/05/IMG_6817.jpg)
+![](/images/2015/05/IMG_6817.jpg)
 
 These were delicious change of pace, but Jen still prefers our lemon basil marinade. 
 

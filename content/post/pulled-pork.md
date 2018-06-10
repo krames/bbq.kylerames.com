@@ -1,7 +1,7 @@
 +++
 author = "Kyle Rames"
 categories = ["Pork Recipes"]
-date = 0001-01-01T00:00:00Z
+date = 2015-07-01T20:16:39Z
 description = ""
 draft = false
 image = "/images/2015/06/IMG_7114-1.jpg"
@@ -19,7 +19,7 @@ I took them home and opened them up to find two nicely marbled butts. I rinsed t
 
 Here are the butts after a heathy dose of [The Squeal Rub](http://www.thekansascitybbqstore.com/products/cowtown-the-squeal-hog-rub).(It is my favorite pork rub. I have always found this rub hard to find and was recently delighted to find it at my local [World Market](http://www.worldmarket.com/product/cowtown-squeal-hog-rub.do) as well as my local Academy.)
 
-![](/content/images/2015/06/IMG_7011.jpg)
+![](/images/2015/06/IMG_7011.jpg)
 
 After rubbing them down, I injected them with Chris Lilly's infamous pork injection. You can find this receipe in his excellent [Big Bob Gibson's BBQ Book](http://www.amazon.com/Big-Bob-Gibsons-BBQ-Book/dp/0307408116/ref=tmm_pap_swatch_0?_encoding=UTF8&sr=&qid=). 
 
@@ -33,7 +33,7 @@ I have reprinted it for your convenience:
 
 I prepped the butts the day before and started my egg at 6:30am the following morning. The butt's went on at 225°F at 7pm.
 
-![](/content/images/2015/06/IMG_7017.jpg)
+![](/images/2015/06/IMG_7017.jpg)
 
 The cook went down like this:
 
@@ -55,8 +55,8 @@ When the time came, my wife ripped them up using [bear paws](http://www.amazon.c
 
 It was excellent! Here are the pictures of the final product.
 
-![](/content/images/2015/06/IMG_7117.jpg)
-![](/content/images/2015/06/IMG_7114.jpg)
+![](/images/2015/06/IMG_7117.jpg)
+![](/images/2015/06/IMG_7114.jpg)
 
 We served it on buns along with the choice of a [Columbia Gold Barbecue Sauce](http://amazingribs.com/recipes/BBQ_sauces/south_carolina_mustard_BBQ_sauce.html) and [East Carolina Kiss & Vinegar Barbecue Sauce & Mop](http://amazingribs.com/recipes/BBQ_sauces/east_carolina_BBQ_sauce.html). 
 

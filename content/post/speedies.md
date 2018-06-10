@@ -1,7 +1,7 @@
 +++
 author = "Kyle Rames"
 categories = ["Pork Recipes"]
-date = 0001-01-01T00:00:00Z
+date = 2017-01-13T20:08:42Z
 description = ""
 draft = false
 image = "/images/2017/01/IMG_1068-2.jpg"
@@ -41,11 +41,11 @@ Mix the marinade ingredients together and reserve 1/4 of a cup to drizzle on the
 
 Thread the pork onto skewers. Preheat your-your grill medium heat (400°F) and then throw in one handful of hickory chips. The pork should be cooked over direct heat turning occasionally until it reaches 145°F.
 
-![](/content/images/2017/01/IMG_1067.jpg)
+![](/images/2017/01/IMG_1067.jpg)
 
 Slice the rolls and then place a skewer in the middle of the bread. Then squeeze the bread while pulling out the skewer. Lastly, drizzle some of the reserved marinade on top. Enjoy!
 
-![](/content/images/2017/01/IMG_1068.jpg)
+![](/images/2017/01/IMG_1068.jpg)
 
 Oh! And just a tip, if you are in San Antonio, try using a baguette from the [BreadBox](http://thebreadboxsa.com/our-menu/). It was just the right size and nice and fresh to boot.
 

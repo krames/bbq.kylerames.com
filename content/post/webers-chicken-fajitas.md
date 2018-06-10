@@ -1,7 +1,7 @@
 +++
 author = "Kyle Rames"
 categories = ["Poultry Recipes"]
-date = 0001-01-01T00:00:00Z
+date = 2015-04-05T17:04:27Z
 description = ""
 draft = false
 image = "/images/2015/03/fajitas6.jpg"
@@ -36,7 +36,7 @@ I used boneless chicken thighs for this recipe, but you could easily use chicken
 
 I put the chicken in the marinade around 6 in the morning.
 
-![](/content/images/2015/03/fajitas1.jpg)
+![](/images/2015/03/fajitas1.jpg)
 
 Jen then chopped up a bell pepper and onion placed these in an aluminum packet along with a drizzle of olive oil. I then put this packet on a medium hot grill for 10 minutes stiring occasionally.
 
@@ -44,19 +44,19 @@ After 10 minutes elapsed I threw the marinated chicken thighs on high heat for 4
 
 Here is an action shot:
 
-![](/content/images/2015/03/fajitas2.jpg)
+![](/images/2015/03/fajitas2.jpg)
 
 The veggie packet came off with the chicken. You can see that they caramelized nicely.
 
-![](/content/images/2015/03/fajitas3.jpg)
+![](/images/2015/03/fajitas3.jpg)
 
 Here is the chicken waiting to be cut up into strips:
 
-![](/content/images/2015/03/fajitas4.jpg)
+![](/images/2015/03/fajitas4.jpg)
 
 And here is what the final product looked like:
 
-![](/content/images/2015/03/fajitas7.jpg)
+![](/images/2015/03/fajitas7.jpg)
 
 
 These were good, but I don't think they will dethrone Central Market's marinade. And if I were to make something from scratch I would most likely use Steven Raichlen's fajita rub, but that's another post!

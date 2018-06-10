@@ -1,7 +1,7 @@
 +++
 author = "Kyle Rames"
 categories = ["Beef Recipes"]
-date = 0001-01-01T00:00:00Z
+date = 2015-09-27T21:13:21Z
 description = ""
 draft = false
 image = "/images/2015/09/IMG_7842-1.jpg"
@@ -17,8 +17,8 @@ I usually do a more traditional brisket for Christmas, so I thought this might b
 
 I headed down to my local Costco and found a nice 13.6 pound brisket.
 
-![](/content/images/2015/09/IMG_7835.jpg)
-![](/content/images/2015/09/IMG_7836.jpg)
+![](/images/2015/09/IMG_7835.jpg)
+![](/images/2015/09/IMG_7836.jpg)
 
 Jen graciously offered to prep the rub for me. Here are the ingredients: 
 
@@ -35,7 +35,7 @@ Jen graciously offered to prep the rub for me. Here are the ingredients:
 
 And here is what the final product looks like:
 
-![](/content/images/2015/09/IMG_7834.jpg)
+![](/images/2015/09/IMG_7834.jpg)
 
 I must admit it smelled really good!
 
@@ -43,7 +43,7 @@ I trimmed up the brisket down by removing the excess fat and slathered it with a
 
 This is what the brisket looked like before it went in the fridge overnight:
 
-![](/content/images/2015/09/IMG_7838.jpg)
+![](/images/2015/09/IMG_7838.jpg)
 
 I have always struggled to know when to start my brisket. Somewhere along the way the Internet led me to believe it was about an hour per pound, but my briskets always seem to cook much faster than that. In my [Christmas Brisket post](http://bbq.kylerames.com/2015/01/18/christmas-brisket/) I postulated that it should really take me 30 minutes per pound with a two hour resting period. So this time I fought my instincts to get started at the crack of dawn.
 
@@ -84,7 +84,7 @@ I attempted to sear the brisket on my Weber to firm up the crust but it flared u
 
 Here is what the brisket looked like out of the foil:
 
-![](/content/images/2015/09/IMG_7842.jpg)
+![](/images/2015/09/IMG_7842.jpg)
 
 Rather than make the Red Eye BBQ sauce described in the recipe and use Franklin's [Espresso BBQ Sauce](http://www.amazon.com/Franklin-Barbecue-12-5oz-Bottle-Espresso/dp/B00C2D0DV4) instead.
 

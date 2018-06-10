@@ -1,7 +1,7 @@
 +++
 author = "Kyle Rames"
 categories = ["Beef Recipes"]
-date = 0001-01-01T00:00:00Z
+date = 2015-09-27T20:07:58Z
 description = ""
 draft = false
 image = "/images/2015/09/IMG_7678.jpg"
@@ -39,16 +39,16 @@ Freshly ground black pepper
 
 This is the marinaded steak resting at room temperature:
 
-![](/content/images/2015/09/IMG_7671.jpg)
+![](/images/2015/09/IMG_7671.jpg)
 
 I threw 1.5 handfuls of oak chips into a 550°F egg. The steak reached 135°F after 8 minutes.
 
 Here is the resting steak:
 
-![](/content/images/2015/09/IMG_7676.jpg)
+![](/images/2015/09/IMG_7676.jpg)
 
 To accompany the steak, We had red peppers marinated in olive oil, oregano, salt, pepper and red vinegar (So good!). Broccoli coated in Dizzy Pig's [Shaking the Tree Rub](http://www.amazon.com/Dizzy-Pig-Shakin-Tree-Spice/dp/B005PIM9ME/ref=sr_1_1?ie=UTF8&qid=1443384316&sr=8-1&keywords=shaking+the+tree+rub). And last but not least, rosemary potatoes.
 
-![](/content/images/2015/09/IMG_7677.jpg)
+![](/images/2015/09/IMG_7677.jpg)
 
 Everything was so good!! This is a definite must try!!

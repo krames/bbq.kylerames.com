@@ -1,7 +1,7 @@
 +++
 author = "Kyle Rames"
 categories = ["Poultry Recipes"]
-date = 0001-01-01T00:00:00Z
+date = 2015-05-02T20:39:07Z
 description = ""
 draft = false
 image = "/images/2015/05/IMG_6607.jpg"
@@ -34,7 +34,7 @@ Here is the recipe:
 1. Combine ingredients put in bag along with chicken quarters. Marinate for 8 hours to overnight.
 2. Indirectly grill chicken over indirect medium heat for 45-60 minutes.
 
-![](/content/images/2015/05/IMG_6605.jpg)
+![](/images/2015/05/IMG_6605.jpg)
 
 I ended up cooking these indirect on my egg for 45 minutes @ 400. I pulled the breasts when they hit 160 and kept the thighs on until they hit 178-180. The wings came off when they looked ready. I then did a final sear on my Weber Genesis for a minute or so to get the skin nice and crisp. 
 

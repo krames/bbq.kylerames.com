@@ -1,7 +1,7 @@
 +++
 author = "Kyle Rames"
 categories = ["Appetizer Recipes"]
-date = 0001-01-01T00:00:00Z
+date = 2016-10-22T21:40:44Z
 description = ""
 draft = false
 image = "/images/2016/10/IMG_0733.jpg"
@@ -27,7 +27,7 @@ Ingredients:
 
 I started off my cutting the cheese and sausages (I used the kielbasa natural garlic sausages) into small matchstick sized pieces. After that was done, I slit the peppers lengthwise and then dug out the stems and seeds with my jalapeno corer. The last part was to simply jam as much cheese and sausage I could into each pepper.
 
-![](/content/images/2016/10/IMG_0731.jpg)
+![](/images/2016/10/IMG_0731.jpg)
 
 I then cooked these indirect at 400°F on my egg with a little hickory smoke. In about 20 minutes they were done. They were really excellent! I think the sausage definitely adds a little something, but I thought a little ranch dip would set them over the top.) As luck would have it, my favorite San Antonio chef was on CBS handing out his [BBQ recipes](http://www.cbsnews.com/news/the-dish-chef-jason-dady/)! I look forward to trying this again with a little dip!
 

@@ -1,7 +1,7 @@
 +++
 author = "Kyle Rames"
 categories = ["Poultry Recipes"]
-date = 0001-01-01T00:00:00Z
+date = 2016-12-11T21:26:45Z
 description = ""
 draft = false
 image = "/images/2016/12/IMG_1093.jpg"
@@ -17,13 +17,13 @@ We decided to keep dinner very simple and go with the basics. We had the turkey 
 
 My wife suggested that I spatchcock the turkey because it always comes out so well with chicken. I dug out my favorite carving knife along with some poultry shears and went to town. I was surprised at how much harder it was to cut out the backbone of our turkey, but in the end I managed and it came out looking this this:
 
-![](/content/images/2016/12/IMG_1084.jpg)
+![](/images/2016/12/IMG_1084.jpg)
 
 In years past I had dry brined the turkey overnight using a little bit of kosher salt in the hopes of keeping it extra juicy. According to the label our turkey contained 7% sodium so I was very concerned with oversalting it, but in the end I throw caution into the wind and gave it a very light sprinkling and put it in the fridge to sit overnight.
 
 I also wanted to try out a different rub this year. I was hoping to use [Todd's Dirt](https://www.amazon.com/Todds-Dirt-Ultimate-All-Purpose-Seasoning/dp/B008VT88Z6/ref=pd_sim_325_3?_encoding=UTF8&psc=1&refRID=266QMSWQT6JHHDWRCR5A) but I couldn't find any at Central Market. (It looks like they might have pulled out of Texas). So I opted to use Meathead's [poultry seasoning](http://amazingribs.com/recipes/rubs_pastes_marinades_and_brines/poultry_seasoning.html). I liked it better than his [Simon And Garfunkel Rub](http://amazingribs.com/recipes/rubs_pastes_marinades_and_brines/simon_and_garfunkel_rub.html). I mixed it up the day off along with 1 tbsp of olive oil. I then rubbed it under and over the skin. When I finished it looked like this:
 
-![](/content/images/2016/12/IMG_1088.jpg).
+![](/images/2016/12/IMG_1088.jpg).
 
 I also injected it with 4oz of melted butter to help keep it extra moist.
 
@@ -37,11 +37,11 @@ Around 4:20pm, I covered the wingtips and drumstick tips up with aluminum foil c
 
 At 5:40pm, it was 160°F throughout the breast and 180°F in the thighs. Here is what it looked like after I pulled it:
 
-![](/content/images/2016/12/IMG_1091.jpg)
+![](/images/2016/12/IMG_1091.jpg)
 
 It was super juicy and amazing! I was shocked that it only cost 16 bucks. 
 
-![](/content/images/2016/12/IMG_1095.jpg)
+![](/images/2016/12/IMG_1095.jpg)
 
 Looking back from the notes from my notes from years past, I suggested more smoke and more salt for brining. This year I finally gave and was all the better for it. I think next year I might be able to push it to one more handful.
 

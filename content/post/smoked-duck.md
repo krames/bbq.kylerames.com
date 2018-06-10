@@ -1,7 +1,7 @@
 +++
 author = "Kyle Rames"
 categories = ["Poultry Recipes"]
-date = 0001-01-01T00:00:00Z
+date = 2016-03-20T20:24:08Z
 description = ""
 draft = false
 image = "/images/2016/03/IMG_8154.jpg"
@@ -21,11 +21,11 @@ We rubbed the duck down with some olive oil and a basic poultry rub (Unfortunate
 
 Here is what the duck looked like after we rubbed it down:
 
-![](/content/images/2016/03/IMG_8142.jpg)
+![](/images/2016/03/IMG_8142.jpg)
 
 I started the cook around 1:55pm with two handfuls of Alderwood and my egg at 325°F.
 
-![](/content/images/2016/03/IMG_8146.jpg)
+![](/images/2016/03/IMG_8146.jpg)
 
 The cook went down like this:
 

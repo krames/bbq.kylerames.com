@@ -1,7 +1,7 @@
 +++
 author = "Kyle Rames"
 categories = ["Poultry Recipes"]
-date = 0001-01-01T00:00:00Z
+date = 2015-11-28T20:54:19Z
 description = ""
 draft = false
 image = "/images/2015/11/IMG_8088.jpg"
@@ -17,23 +17,23 @@ My turkey last year was nothing short of phenomenal. This year I dusted off my o
 
 Last year we picked up a Mary's Free-Range Turkey Breast from Central Market and this year we decided to stick with the same brand. Jen picked out a 6.28 and a 6.36 pound breast. (We were hoping for lots of turkey sandwiches!)
 
-![](/content/images/2015/11/IMG_8060.jpg)
+![](/images/2015/11/IMG_8060.jpg)
 
 I always start all of my BBQ adventures off by looking at [amazingribs.com](amazingribs.com). They have a GREAT page on [turkey](http://amazingribs.com/recipes/chicken_turkey_duck/ultimate_smoked_turkey.html) which I continued to follow. In the recipe he exults the use of dry brining to keep the turkey juicy. When I attempted the recipe last year I was particularly concerned about overdoing the salt, but ended up taking a leap of faith and decided to use the minimum recommendation of 1/4 tsp per pound for a total of 1.5 tsp. This year's breasts had the same 3% salt content and my notes from last year said that I could probably get away with more salt so this year. I had intended to use 2 tsp but after applying 1.5 tsp it seemed like I had pretty good coverage. I was wrong! Next year I should fight my instinct and do with 2tsp-2.5tsp.
 
 Here is a picture of the turkeys after the brine was applied. They sat loosely covered in the fridge overnight.
 
-![](/content/images/2015/11/IMG_8068.jpg)
+![](/images/2015/11/IMG_8068.jpg)
 
 I didn't get any complaints on [Simon & Garfunkel](http://amazingribs.com/recipes/rubs_pastes_marinades_and_brines/simon_and_garfunkel_rub.html) rub I used last year so I opted to use it again. I made a whole batch (1/4 cup) which was evenly split between the two turkeys. I mixed this with 2 tbsp of olive oil and allowed this wet rub to sit for a couple hours before I rubbed down the turkeys.
 
 After having spatchcocked more than a couple turkeys I have become pretty adept at loosening up the skin just enough to sneak some rub in which you can see here:
 
-![](/content/images/2015/11/IMG_8075.jpg)
+![](/images/2015/11/IMG_8075.jpg)
 
 And here is what the turkeys looked like after my rub down:
 
-![](/content/images/2015/11/IMG_8079.jpg)
+![](/images/2015/11/IMG_8079.jpg)
 
 I then injected each of these turkeys with 4oz of melted butter. These then went back into the fridge until the egg came up to temp.
 
@@ -43,7 +43,7 @@ Last year I used applewood chips. This year I spent a some time poking around at
 
 Here are the birds about an hour into the cook:
 
-![](/content/images/2015/11/IMG_8083.jpg)
+![](/images/2015/11/IMG_8083.jpg)
 
 Here is the timeline:
 
@@ -59,7 +59,7 @@ Here is the timeline:
 
 And here is what the final product looked like:
 
-![](/content/images/2015/11/IMG_8093.jpg)
+![](/images/2015/11/IMG_8093.jpg)
 
 One turkey came with me to Thanksgiving dinner and the other went in the fridge to be used for brunch. The bird probably rested 1-2 hours before serving.
 

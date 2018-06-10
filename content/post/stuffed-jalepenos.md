@@ -1,7 +1,7 @@
 +++
 author = "Kyle Rames"
 categories = ["Appetizer Recipes"]
-date = 0001-01-01T00:00:00Z
+date = 2015-01-25T20:45:56Z
 description = ""
 draft = false
 image = "/images/2015/01/jalapeno3-1.jpg"
@@ -17,19 +17,19 @@ Most of stuffed jalapeños I have found cut the jalapeños in half. But, since I
 
 Here are what the jalapeños looked like after coring them:
 
-![](/content/images/2015/01/jalepenos1.jpg)
+![](/images/2015/01/jalepenos1.jpg)
 
 And here is the cream cheese and sharp cheddar mixture.
 
-![](/content/images/2015/01/jalapenos2.jpg)
+![](/images/2015/01/jalapenos2.jpg)
 
 I have found using a spoon along with a small butter knife help to poke the mixture down.  I then topped them with a generous amount of [Bad Byron's Butt Rub](http://www.amazon.com/Bad-Byrons-Barbecue-Seasoning-Ounce/dp/B000QV4U4U/ref=sr_1_3?ie=UTF8&qid=1422216883&sr=8-3) to arrive here:
 
-![](/content/images/2015/01/jalapeno3.jpg)
+![](/images/2015/01/jalapeno3.jpg)
 
 These went on along side my ribs. After about **25 minutes** they had the right amount of give to them so I pulled them.
 
-![](/content/images/2015/01/jalapenos4.jpg)
+![](/images/2015/01/jalapenos4.jpg)
 
 They were delicious, but the batch of jalapeños were a little too spicy for me.
 
