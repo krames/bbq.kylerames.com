@@ -1,9 +1,10 @@
-baseURL = "http://example.org/"
+baseURL = "http://bbq.kylerames.com/"
 languageCode = "en-us"
 title = "BBQ 160"
 theme = "casper"
-
 paginate = 5
-description = "My adventures in BBQ"
-cover = "images/2017/03/IMG_1531.jpg"
-author = "Kyle Rames"
+
+[params]
+  description = "My adventures in BBQ"
+  cover = "/images/2017/03/IMG_1531.jpg"
+  author = "Kyle Rames"
