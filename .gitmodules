@@ -3,4 +3,4 @@
 	url = https://github.com/krames/bbq-theme.git
 [submodule "themes/casper"]
 	path = themes/casper
-	url = https://github.com/vjeantet/hugo-theme-casper
+	url = https://github.com/krames/hugo-theme-casper

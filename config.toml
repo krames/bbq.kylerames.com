@@ -8,3 +8,38 @@ paginate = 5
   description = "My adventures in BBQ"
   cover = "/images/2017/03/IMG_1531.jpg"
   author = "Kyle Rames"
+
+[[menu.main]]
+  name = "Home"
+  weight = 7
+  url = "/"
+
+[[menu.main]]
+  name = "Appetizer"
+  weight = 6
+  url = "/tags/appetizer-recipes/"
+
+[[menu.main]]
+  name = "Beef"
+  weight = 5
+  url = "/tags/beef-recipes/"
+
+[[menu.main]]
+  name = "Pork"
+  weight = 4
+  url = "/tags/pork-recipes/"
+
+[[menu.main]]
+  name = "Poultry"
+  weight = 3
+  url = "/tags/poultry-recipes/"
+
+[[menu.main]]
+  name = "Seafood"
+  weight = 2
+  url = "/tags/seafood-recipes/"
+
+[[menu.main]]
+  name = "Sauces"
+  weight = 1
+  url = "/tags/sauce-recipes/"
