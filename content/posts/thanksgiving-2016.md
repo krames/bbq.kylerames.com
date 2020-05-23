@@ -11,7 +11,7 @@ title = "Thanksgiving 2016"
 
 +++
 
-I decided to take the week of Thanksgiving off work with the goal of not doing anything productive --including cooking a turkey. (My sister-in-law cooks our Thanksgiving every year. I usually just do one for fun and turkey sandwiches). I had a change in heart when my wife found a 11.13 lb turkey for 16 bucks at our local grocery store. 
+I decided to take the week of Thanksgiving off work with the goal of not doing anything productive --including cooking a turkey. (My sister-in-law cooks our Thanksgiving every year. I usually just do one for fun and turkey sandwiches). I had a change in heart when my wife found a 11.13 lb turkey for 16 bucks at our local grocery store.
 
 We decided to keep dinner very simple and go with the basics. We had the turkey with some green beans, mash potatoes combined with roasted garlic I did on the grill, and some rolls. Dinner was topped off with an *amazing* slice of homemade pecan pie courtesy of my mother-in-law.
 
@@ -39,7 +39,7 @@ At 5:40pm, it was 160°F throughout the breast and 180°F in the thighs. Here is
 
 ![](/images/2016/12/IMG_1091.jpg)
 
-It was super juicy and amazing! I was shocked that it only cost 16 bucks. 
+It was super juicy and amazing! I was shocked that it only cost 16 bucks.
 
 ![](/images/2016/12/IMG_1095.jpg)
 
@@ -48,4 +48,3 @@ Looking back from the notes from my notes from years past, I suggested more smok
 My pit controllers view of the cook can be found [here](https://myflameboss.com/cooks/53543?historical=1)
 
 Happy Thanksgiving!!!
-
